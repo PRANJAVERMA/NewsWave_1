@@ -2,6 +2,7 @@
 <img src="https://github.com/PRANJAVERMA/NewsWave_1/blob/main/Images/NewsWave.2.png" alt="Amazon side menu page" />
 <img src="https://github.com/PRANJAVERMA/NewsWave_1/blob/main/Images/NewsWave.3.png" alt="Amazon side menu page" />
 <img src="https://github.com/PRANJAVERMA/NewsWave_1/blob/main/Images/NewsWave.4.png" alt="Amazon side menu page" />
+<img src="https://github.com/PRANJAVERMA/NewsWave_1/blob/main/Images/NewsWave.5.png" alt="Amazon side menu page" />
 
 
 
