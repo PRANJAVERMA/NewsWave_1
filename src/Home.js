@@ -11,7 +11,7 @@ export class Home extends Component {
             <div className='row' id='container'>
                 <div className="card" style={{width: '20rem'}}>
                     <img
-                        src="https://github.com/PRANJAVERMA/NewsWave_1/blob/main/public/img.png"
+                        src="/img.png"
                         className="card-img-top"
                         alt="Indian News"
                     />
