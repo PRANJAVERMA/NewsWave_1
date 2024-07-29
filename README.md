@@ -1,3 +1,10 @@
+<img src="https://github.com/PRANJAVERMA/NewsWave_1/blob/main/Images/NewsWave.1.png" alt="Amazon home page" />
+<img src="src.png" alt="Amazon side menu page" />
+<img src="out1.png" alt="Amazon side menu page" />
+<img src="https://github.com/PriyamvadaP/Amazon-Clone-HtmlCssJS/blob/main/images/Output-3.jpeg" alt="Amazon side menu page" />
+
+
+
 # NewsWave
 
 NewsWave is a web application designed to provide users with top news from various sources. The application displays news in three distinct sections:
