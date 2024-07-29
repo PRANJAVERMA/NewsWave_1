@@ -11,7 +11,7 @@ export class Home extends Component {
             <div className='row' id='container'>
                 <div className="card" style={{width: '20rem'}}>
                     <img
-                        src="/img.png"
+                        src="./img.png"
                         className="card-img-top"
                         alt="Indian News"
                     />
@@ -28,7 +28,7 @@ export class Home extends Component {
                 </div>
                 <div className="card" style={{width: '20rem'}}>
                     <img
-                        src="/GoogleNews.png"
+                        src="./GoogleNews.png"
                         className="card-img-top"
                         alt="Google News"
                     />
@@ -46,7 +46,7 @@ export class Home extends Component {
                 </div>
                 <div className="card" style={{width: '20rem'}}>
                     <img
-                        src="/internationalNews.png"
+                        src="./internationalNews.png"
                         className="card-img-top"
                         alt="International News"
                     />
